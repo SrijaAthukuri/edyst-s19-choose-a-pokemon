@@ -1,0 +1,86 @@
+div.empty
+{
+    width: 20%;
+    height: 50%;
+    float: left;   
+}
+div.layout
+{
+    width: 60%;
+    height: 50%;
+    background-color: #f3f4f5;
+    float: left;
+}
+div.pokecards
+{
+    width:20%;
+    height: 70%;
+    float: left;
+    text-align: center;
+    border-radius: 5%; 
+}
+div.pokecardscolor1
+{
+    background-color: #c4f6c3;
+    
+}
+div.pokecardscolor2
+{
+    background-color: rgb(252, 168, 168);
+}
+div.pokecardscolor3
+{
+    background-color: skyblue;
+}
+div.empty1
+{
+    width:10%;
+    height: 50%;
+    float: left;
+}
+
+div.empty2
+{
+    width:100%;
+    height: 15%;
+    float: top;
+}
+div.square {
+    max-width: 50%;
+    height: auto;
+    text-align: center;
+}
+img {
+    padding-top: 80%;
+    padding-left: 50%; 
+    max-width: 100%;
+    max-height: 100%;
+}
+span.test
+{
+    text-align: center;
+    top: 15%;
+    position: relative;
+}
+div.box
+{
+    position: relative;
+    top: 7%;
+    left: 10%;
+    width : 20%;
+    height : 8%;
+     border-radius: 10%; 
+
+}
+div.boxcolor1
+{
+    background-color: rgb(8, 245, 8);
+}
+div.boxcolor2
+{
+    background-color: red;
+}
+div.boxcolor3
+{
+    background-color: dodgerblue;
+}
